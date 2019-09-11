@@ -1,10 +1,3 @@
-# ⚠️️ DISCLAIMER ⚠️️
-
-This project is...
-* not actively maintained
-* not actively supported and is not guaranteed to be compatible with all versions of Clair
-* intended for local usage only and does not follow the best practices for production usage of Clair
-
 # analyze-local-images
 
 This is a basic tool that enables quick analysis of local Docker images with [Clair](https://github.com/coreos/clair).
